@@ -7,7 +7,7 @@ O back-end usa PostgreSQL e conecta ao banco `formulario` por padrão.
 1. Crie o banco no PostgreSQL, se ainda não existir:
 
 	```sql
-	CREATE DATABASE formulario;
+	CREATE DATABASE formulário;
 	```
 
 2. Na pasta `back-end`, copie `.env.example` para `.env` e informe o usuário e a senha do PostgreSQL.
